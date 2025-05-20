@@ -1,5 +1,7 @@
 # 👋 Ahoj, já jsem Ondřej Nevřela
 
+<details open>
+<summary>🇨🇿 Čeština (výchozí)</summary>
 Jsem full stack vývojář se specializací na PHP (Symfony, Zend), Vue 3, ERP integrace (Pohoda, Helios) a vývoj interních systémů a aplikací.  
 Mám přes 5 let zkušeností s vývojem webových aplikací, interních nástrojů a systémových integrací.  
 Baví mě zkoumat nové technologie, sledovat trendy a přirozeně je integrovat do systémů, na kterých pracuji – od vývoje po nasazení.
@@ -94,3 +96,106 @@ Napojení na backend a export technické dokumentace.
 
 - 🌐 [ondrejnevrela.cz](https://www.ondrejnevrela.cz)
 - 📧 ondra.nevrela@gmail.com
+
+</details>
+
+<details>
+<summary>🇬🇧 English (click to expand)</summary>
+
+I'm a full stack developer specializing in PHP (Symfony, Zend), Vue 3, ERP integrations (Pohoda, Helios), and the development of internal systems and applications.  
+I have over 5 years of experience developing web applications, internal tools, and system integrations.  
+I enjoy exploring new technologies, keeping up with trends, and naturally integrating them into the systems I work on – from development to deployment.
+
+## 💼 What I Do
+
+- I design and develop internal platforms, APIs, and tools for automating processes across ERP, e-shops, and manufacturing.
+- I create my own hobby projects using AI (ChatGPT, LM Studio, local LLMs) and look for ways to incorporate AI into real-world business processes.
+- I optimize backend performance using tools such as Zabbix, slow query analysis, and more.
+- I bridge development with business needs – I understand accounting, warehousing, and manufacturing processes.
+
+## 🛠️ Technologies
+
+**Frontend:** Vue 3, Nuxt, Tailwind, React, jQuery, Latte  
+**Backend:** PHP, Symfony, Zend, API Platform, Nette  
+**Databases:** MySQL, T-SQL, PostgreSQL, Redis, Elasticsearch  
+**Monitoring & Analytics:** Zabbix, Google Analytics, Matomo, Lighthouse  
+**Integrations:** Daktela, Balíkobot, Ecomail, Gopay, Monetico, VIES, RON  
+**ERP:** Helios, Pohoda  
+**AI (in hobby projects):** ChatGPT, LM Studio, Gemini, Cursor
+
+## 🚀 Selected Projects
+
+### [Ecuservis.eu](https://www.ondrejnevrela.cz/en/projects/ecuservis)
+
+A specialized website for automotive ECU repairs and replacements.  
+Contains over 20,000 products in four language versions.  
+Integrated with Pohoda and Helios ERP systems.
+
+**My role:**  
+- Architecture and development of the entire website  
+- Integration with ERP systems (Pohoda + Helios)  
+- Multilingual product structure  
+- Management of imports, feeds, performance optimization  
+
+---
+
+### [ECU Manufacturing Module](https://www.ondrejnevrela.cz/en/projects/ecuservis-module)
+
+Internal system for managing individual ECU repairs, integrated with ERP and customer service.  
+Enables tracking of time, material consumption, document generation, and order status monitoring.
+
+**My role:**  
+- Complete system development from design to deployment  
+- Manufacturing flow logic, tracking time and costs  
+- Document generation and management reports  
+- ERP integration, warehouse and CRM connections  
+
+---
+
+### [Ecuexchange.com](https://www.ondrejnevrela.cz/en/projects/ecuexchange)
+
+B2C e-shop for the direct sale of refurbished ECUs.  
+Integrated with ERP systems and the manufacturing module for managing product availability and status.
+
+**My role:**  
+- API integration with warehouse and manufacturing systems  
+- Shopping cart and order logic development  
+- Automated product availability based on production  
+- SEO and multilingual versions  
+
+---
+
+### [Remante – Internal Platform](https://www.ondrejnevrela.cz/en/projects/remante)
+
+Development and management of a framework for building admin and B2B systems.  
+The original system built on jQuery was rewritten into a modern SPA application using Vue 3.
+
+**My role:**  
+- SPA architecture design, router, state management  
+- Refactoring old modules from jQuery to Vue 3  
+- Creating components and form framework  
+- Internal libraries and development tools  
+
+---
+
+### [Fohet – Solar System Configurator](https://www.ondrejnevrela.cz/en/projects/fohet)
+
+Online configurator for selecting and designing custom photovoltaic systems.  
+Built on React and optimized for a user-friendly component selection experience.  
+Connected to the backend and exports technical documentation.
+
+**My role:**  
+- Creation of the interactive configurator in React  
+- Handling dynamic selections, validation, and states  
+- Exporting assemblies to PDF and automatic calculations  
+- UX design and logic collaboration for component selection  
+
+---
+
+## 📫 Contact
+
+- 🌐 [ondrejnevrela.cz](https://www.ondrejnevrela.cz/en)
+- 📧 ondra.nevrela@gmail.com
+
+</details>
+
